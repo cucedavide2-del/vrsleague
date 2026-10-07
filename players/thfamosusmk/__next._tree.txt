@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/441luge4avfu5.css","style"]
+:HL["/_next/static/chunks/2r3nvhd6w6r_t.css","style"]
 :HL["/_next/static/media/0595f7052377a1a2-s.p.2lpos000q_nzo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/303804218d80822e-s.p.3lj349bs9hfu1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/612838607db3d51d-s.p.2-6hkzwn24m5-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -11,4 +11,4 @@
 :HL["/_next/static/media/e8f2fbee2754df70-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/art/vrs-logo.png","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/ucla.webp?v=1791120973378","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"players","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"thfamosusmk","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"irQZYzho_U5jD7oldJ6cT"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"players","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"thfamosusmk","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"0fHFb9WD5MymjwVTKJ_az"}
