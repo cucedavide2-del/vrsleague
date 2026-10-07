@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0z_m97hyc_n47.css","style"]
+:HL["/_next/static/chunks/0ssawm-pj6wwr.css","style"]
 :HL["/_next/static/media/0595f7052377a1a2-s.p.2lpos000q_nzo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/303804218d80822e-s.p.3lj349bs9hfu1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/612838607db3d51d-s.p.2-6hkzwn24m5-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -11,4 +11,4 @@
 :HL["/_next/static/media/e8f2fbee2754df70-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/art/vrs-logo.png","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/mujinazaka-high.webp?v=1791054738960","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"players","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"nothenryy_0","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"dDw_y2WTTvhf__GvpAqYZ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"players","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"nothenryy_0","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"uw5DMsBTtn2Iz5Bl3PTEM"}
