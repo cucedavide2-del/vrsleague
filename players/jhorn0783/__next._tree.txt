@@ -11,4 +11,4 @@
 :HL["/_next/static/media/e8f2fbee2754df70-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/art/vrs-logo.png","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/fukurodani.webp?v=1791137442204","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"players","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"jhorn0783","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"KjV969O1XMZahpHlla3HK"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"players","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"jhorn0783","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"diW0iZ0_a9Vtxa9PUFr8P"}
