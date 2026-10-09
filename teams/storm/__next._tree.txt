@@ -18,4 +18,4 @@
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/akatsuki.webp?v=1791150702057","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/japan.webp?v=1791047867793","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/era-0s.webp?v=1791048359760","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"teams","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"storm","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"bwOEch-69n5oEXDX9k4Z_"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"teams","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"storm","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"vE5-T3VgtCg19Ss5cIgHD"}
