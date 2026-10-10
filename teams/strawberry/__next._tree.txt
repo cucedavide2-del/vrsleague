@@ -22,4 +22,4 @@
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/shadow-rose.webp?v=1791075725254","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/kita.webp?v=1791655429953","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/omnix.webp?v=1791658358009","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"teams","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"strawberry","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"8IAKsemx-UiijDlmHQq4x"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"teams","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"strawberry","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"tpY4Iq8dHB3qAInTIbbTs"}
