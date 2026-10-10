@@ -19,4 +19,4 @@
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/shibuya.webp?v=1791050370449","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/ucla.webp?v=1791120973378","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/era-0s.webp?v=1791048359760","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"f9yoirucXBGetIivnys0K"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"ha_4p5UQjGNlRtN766ukF"}
