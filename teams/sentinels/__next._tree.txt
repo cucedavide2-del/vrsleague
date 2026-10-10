@@ -15,8 +15,9 @@
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/ole-de-samba.webp?v=1791126102665","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/ucla.webp?v=1791120973378","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/akatsuki.webp?v=1791150702057","image"]
+:HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/bagwork.webp?v=1791643371880","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/storm.webp?v=1791595509907","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/era-0s.webp?v=1791048359760","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/japan.webp?v=1791047867793","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/shadow-rose.webp?v=1791075725254","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"teams","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sentinels","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"7SIZ8hR4IXOa39Cg_4w7J"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"teams","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sentinels","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"JJ84zwwprhJQuWEgvT74u"}
