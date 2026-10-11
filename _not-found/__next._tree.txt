@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/2xt4anajcmwgv.css","style"]
+:HL["/_next/static/chunks/13b_pttzcfou0.css","style"]
 :HL["/art/vrs-logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"rQaaoD2QoE1shRlM6eOMc"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"X6YRWEe4d6Bspf4_RWFxR"}
