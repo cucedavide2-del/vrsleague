@@ -17,9 +17,9 @@
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/mujinazaka-high.webp?v=1791054738960","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/ole-de-samba.webp?v=1791126102665","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/akatsuki.webp?v=1791150702057","image"]
+:HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/kita.webp?v=1791655429953","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/storm.webp?v=1791595509907","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/japan.webp?v=1791047867793","image"]
-:HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/kita.webp?v=1791655429953","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/shadow-rose.webp?v=1791075725254","image"]
 :HL["https://agutukzretxzucfokenx.supabase.co/storage/v1/object/public/logos/omnix.webp?v=1791658358009","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"teams","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"era-0s","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"IVOo9w78Oap5lE8dCvJ-U"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"teams","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"era-0s","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"gTAuk1aN951wf0D93xBdc"}
